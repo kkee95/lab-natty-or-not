@@ -1,7 +1,7 @@
 # Plataforma Digital VIRA-BICHO
 
 ## 📒 Descrição
-A [VIRA-BICHO](VIRA-BICHO-Plataforma-de-Educacao-Ambiental-e-Sustentabilidade.pptx) é uma plaforma digital com a intenção de promover mudanças socio-ambientais atraveis da transmissão de conhecimento por meio de videos, workshops e tutorias sobre educação ambiental. 
+A [VIRA-BICHO](VIRA-BICHO-Plataforma-de-Educacao-Ambiental-e-Sustentabilidade.pdf) é uma plaforma digital com a intenção de promover mudanças socio-ambientais atraveis da transmissão de conhecimento por meio de videos, workshops e tutorias sobre educação ambiental. 
 
 ## 🤖 tecnologias utilizadas foram:
 - [Cocriador - ChatGPT](https://chatgpt.com/)
